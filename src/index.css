@@ -1,0 +1,25 @@
+.ant-modal p {
+  margin: 0;
+}
+.steps {
+  width: 20rem;
+  height: 40rem;
+}
+.container {
+  display: flex;
+}
+.content {
+  height: 20rem;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+.content p {
+  font-size: 2rem;
+}
+
+.controls {
+  width: 10rem;
+  display: flex;
+  justify-content: space-between;
+}
